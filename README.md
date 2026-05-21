@@ -40,9 +40,11 @@ while True:
 ```
 ## OUTPUT
 ## Client.py:
-<img width="833" height="900" alt="Screenshot 2026-05-21 134342" src="https://github.com/user-attachments/assets/9d1e5290-1050-4db4-a8bc-a6ecd7cf7399" />
+<img width="767" height="267" alt="Screenshot 2026-05-21 183716" src="https://github.com/user-attachments/assets/401215b8-3964-411c-873b-e855fae299b3" />
+
 ## Server.py:
-<img width="922" height="887" alt="Screenshot 2026-05-21 134425" src="https://github.com/user-attachments/assets/2c73b7f1-820a-4800-9692-365d1aaa0b20" />
+<img width="712" height="240" alt="Screenshot 2026-05-21 183820" src="https://github.com/user-attachments/assets/de05a8e7-ad4b-4a4a-b0be-47bec247d25d" />
+
 ## Developed By: BUSHRA FATHIMA I
 ## Register Number: 212225040051
 
