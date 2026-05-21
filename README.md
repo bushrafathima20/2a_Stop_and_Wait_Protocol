@@ -43,6 +43,7 @@ while True:
 ## Client.py:
 <img width="485" height="485" alt="Screenshot 2026-05-21 184259" src="https://github.com/user-attachments/assets/6b10be57-26ab-4383-898c-37e4b0dc80a6" />
 
+
 <img width="767" height="267" alt="Screenshot 2026-05-21 183716" src="https://github.com/user-attachments/assets/401215b8-3964-411c-873b-e855fae299b3" />
 
 ## Server.py:
