@@ -39,6 +39,7 @@ while True:
   s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
+
 ## Client.py:
 <img width="767" height="267" alt="Screenshot 2026-05-21 183716" src="https://github.com/user-attachments/assets/401215b8-3964-411c-873b-e855fae299b3" />
 
